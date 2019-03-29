@@ -1,7 +1,7 @@
 {
     "swagger": "2.0", 
     "info": {
-        "title": "Recommendation Management", 
+        "title": "RecommendationManagement", 
         "description": "This is Swagger UI environment generated for the TMF Recommendation Management specification", 
         "version": "2.0"
     }, 
